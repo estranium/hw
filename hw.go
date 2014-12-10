@@ -1,11 +1,11 @@
 package main
 
 import (
-  "fmt"
-  // "time"
-  )
+	"fmt"
+	// "time"
+)
 
-  func main() {
-    fmt.Println("Hello Cruel Fucking World!")
+func main() {
+	fmt.Println("Hello Cruel Fucking World!")
 
-  }
+}
